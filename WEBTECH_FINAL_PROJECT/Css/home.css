@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.home-table{
+    background-color: darkblue;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.home-heading{
+    padding-bottom: 10px;
+}
+
+a{
+    color: aqua;
+}

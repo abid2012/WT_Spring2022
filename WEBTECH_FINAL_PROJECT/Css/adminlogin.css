@@ -1,0 +1,28 @@
+.loginform{
+    background-color: lightblue;
+    margin: 0 auto;
+    width: 30%;
+    padding: 40px;
+    margin-top: 10%;
+    border: 5px red solid;
+    border-radius: 6px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.txt{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+
+body{
+    background-color: darkblue;
+}
+
+a{
+    color: white;
+}

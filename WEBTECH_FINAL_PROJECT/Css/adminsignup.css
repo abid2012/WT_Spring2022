@@ -1,0 +1,22 @@
+div.relative {
+    position: relative;
+    width: 800px;
+    height: 100%;
+    border: 3px solid #0025fa;
+    margin: 0 auto;
+    background-color: aquamarine;
+  } 
+  
+  div.absolute {
+    position: absolute;
+    top: 120px;
+    right: 100;
+    width: 77%;
+    height: 58%;
+    border: 4px red solid;
+    background-color: rgb(166, 255, 233);
+  }
+
+  body{
+      background-color: rgb(0, 248, 207);
+  }
