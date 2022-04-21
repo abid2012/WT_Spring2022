@@ -1,0 +1,15 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "pass": "admin",
+        "dob": "2003-02-07",
+        "gender": "Male",
+        "language": [
+            "English",
+            "Bangla"
+        ],
+        "country": "Bangladesh",
+        "address": "Dhaka"
+    }
+]
